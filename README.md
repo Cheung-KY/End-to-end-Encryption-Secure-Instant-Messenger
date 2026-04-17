@@ -8,7 +8,7 @@
   • Install required dependencies, open Terminal / Command Prompt and run:
     pip install fastapi uvicorn sqlalchemy passlib[bcrypt] cryptography websocketclient requests
 
-2. Installation & Starting the System
+3. Installation & Starting the System
     To properly test the 1:1 messaging locally, you must simulate two separate users. This
     requires setting up one server environment and two distinct client environments.
 
